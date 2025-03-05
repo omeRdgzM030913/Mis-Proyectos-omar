@@ -38,3 +38,7 @@ Phylogeny: Generation of trees (hierarchical clustering) and “fan” represent
 Interpretation of biological results, relating genetic closeness to potential zoonosis and transmissibility.
 
 Value Provided: Provides an evolutionary map that helps understand routes of contagion or mutations, highlighting the importance of biodiversity in the study of pathogens.
+
+
+
+*These three projects highlight the analytical capacity, creativity in problem solving and adaptability to different languages ​​and methods, essential ingredients for success in Data Science.*
